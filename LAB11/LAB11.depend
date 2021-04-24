@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619249340 source:/home/pi/GIT/LAB11/main.c
+	<stdio.h>
+	<stdlib.h>
+	<wiringPi.h>
+
